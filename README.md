@@ -1,4 +1,4 @@
-<h1 align="center">Analisador Text</h1>
+<h1 align="center">Analisador de Texto</h1>
 
 <h3 align="center">Projeto desenvolvido em Python</h3>
 <p align="center">
